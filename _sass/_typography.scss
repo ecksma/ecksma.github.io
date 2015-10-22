@@ -16,3 +16,17 @@ small,
 .small {
   font-size: 0.707rem;
 }
+
+@font-face {
+    font-family: "TablGoth_Bo";
+    src: url("/fonts/TabletGothic-Bold.woff") format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "TablGoth_Reg";
+    src: url("/fonts/TabletGothic-Regular.woff") format('woff');
+    font-weight: regular;
+}
+
+
