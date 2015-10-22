@@ -4,7 +4,7 @@ email:       ecksma@gmail.com
 author:      Marcus Eckstein
 description: "Blog and Linklist"
 baseurl:     ""
-url:         ""
+url:         "http://ecksma.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
